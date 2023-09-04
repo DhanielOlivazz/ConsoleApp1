@@ -1,8 +1,12 @@
-﻿Console.WriteLine("When naces");
-Console.WriteLine("When naces");
-Console.WriteLine("When naces");
-Console.WriteLine("When naces");
-Console.WriteLine("When naces");
-Console.WriteLine("When naces");
-Console.WriteLine("When naces");
-Console.WriteLine("When naces");
+﻿void MiPrimerMetodo()
+{
+    
+}
+void MiSegundoMetodo()
+{
+
+}
+void MiTercerMetodo()
+{
+
+}
